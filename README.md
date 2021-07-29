@@ -1,2 +1,2 @@
-# sklearning
-sklearning
+# scikit-plot
+scikit-plot
